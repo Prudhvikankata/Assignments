@@ -4,7 +4,7 @@ public class AlphabetCheck {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Enter a character: ");
+        System.out.print("Enter character: ");
         char ch = scanner.next().charAt(0);
 
         if ((ch >= 'A' && ch <= 'Z') || (ch >= 'a' && ch <= 'z')) {
