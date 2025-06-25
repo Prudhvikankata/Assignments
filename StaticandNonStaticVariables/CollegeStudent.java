@@ -15,15 +15,15 @@ public class CollegeStudent {
 
         CollegeStudent s1 = new CollegeStudent();
         s1.studentId = 1;
-        s1.studentName = "Sri";
+        s1.studentName = "jack";
 
         CollegeStudent s2 = new CollegeStudent();
         s2.studentId = 2;
-        s2.studentName = "Vinya";
+        s2.studentName = "sai";
 
         CollegeStudent s3 = new CollegeStudent();
         s3.studentId = 3;
-        s3.studentName = "Tata";
+        s3.studentName = "Ratan";
 
         s1.displayDetails();
         System.out.println("-----");

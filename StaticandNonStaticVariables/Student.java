@@ -18,7 +18,7 @@ public class Student {
 
         Student s2 = new Student();
         s2.studentId = 02;
-        s2.name = "Vinya";
+        s2.name = "Prudhvi";
 
         s1.displayDetails();
         System.out.println("---------------------");

@@ -19,7 +19,7 @@ public class BankAccount {
     public static void main(String[] args) {
         BankAccount account = new BankAccount();
         account.accountNumber = 123456;
-        account.accountHolderName = "Srivinya Tata";
+        account.accountHolderName = "Prudhvi";
         account.balance = 10000;
 
         account.displayDetails();

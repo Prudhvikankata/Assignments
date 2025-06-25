@@ -22,9 +22,9 @@ public class EmployeeSalaryTracker {
     }
 
     public static void main(String[] args) {
-        EmployeeSalaryTracker e1 = new EmployeeSalaryTracker(101, "Sri", 60000);
-        EmployeeSalaryTracker e2 = new EmployeeSalaryTracker(102, "Vinya", 70000);
-        EmployeeSalaryTracker e3 = new EmployeeSalaryTracker(103, "Tata", 80000);
+        EmployeeSalaryTracker e1 = new EmployeeSalaryTracker(101, "Sai", 620000);
+        EmployeeSalaryTracker e2 = new EmployeeSalaryTracker(102, "Prudhvi", 870000);
+        EmployeeSalaryTracker e3 = new EmployeeSalaryTracker(103, "Danil", 180000);
 
         e1.displayDetails();
         System.out.println("-----");
